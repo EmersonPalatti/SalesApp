@@ -1,0 +1,12 @@
+[project]
+name = "salesapp"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.14"
+dependencies = [
+    "humanize>=4.15.0",
+    "pandas>=2.3.3",
+    "plotly>=6.6.0",
+    "streamlit>=1.55.0",
+]
