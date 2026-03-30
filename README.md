@@ -2,6 +2,8 @@
 
 Dashboard de vendas em Streamlit para explorar, editar e visualizar dados de vendas, filiais e produtos.
 
+[SalesApp](https://salesapp-demo.streamlit.app/)
+
 ## Visão geral
 - **Stack:** Python 3.14+, Streamlit, Pandas, Plotly, Humanize.
 - **Dados:** armazenados em `datasets/` (CSVs gerados pelo script `datasets/gerador_de_vendas.py`).
